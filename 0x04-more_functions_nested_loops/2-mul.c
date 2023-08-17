@@ -1,16 +1,13 @@
-#include "holberton.h"
-
+#include "main.h"
 /**
- * mul -main entry.
- * @a: integer to be checked
- * @b: integer to be checked
- *Description: Multiply two integers
- * Return: multiply two integers
- **/
-
+ * mul - multiply 2 int
+ * @a: first int
+ * @b: second int
+ * Return: addition of the multiplicattion
+ */
 
 int mul(int a, int b)
 {
 	return (a * b);
-
 }
+
